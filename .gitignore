@@ -1,5 +1,5 @@
 terraform.tfstate
 terraform.tfstate.backup
-.terraform
+.terraform/
 .terraform.lock.hcl
 .terraform/providers/registry.terraform.io/hashicorp/azurerm/4.24.0/windows_amd64/terraform-provider-azurerm_v4.24.0_x5.exe
